@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/profile-photo.png" width="180" alt="Profile Photo" style="border-radius: 50%">
+  <img src="C:\Users\manth\Pictures\Screenshots\Στιγμιότυπο οθόνης 2025-03-22 172806.png" width="180" alt="Profile Photo" style="border-radius: 50%">
 </p>
 
 <h2 align="center">Hi, I'm Vassalos Matthaios 👋</h2>
