@@ -56,7 +56,7 @@ Analytical Thinking, Adaptability, Growth Mindset, Team Collaboration
 -->
 
 ---
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=vue-dark" alt="Vassalos Matthaios's GitHub Stats">
-</p>
+</p>-->
