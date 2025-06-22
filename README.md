@@ -1,55 +1,62 @@
-
-
-  <p><img src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png" alt="Web-developer"></p>
-<h2 id="welcome-to-my-world">Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
-<h3 id="hello-im-brijesh-dhanani-a-full-stack-developer-from-india">Hello! I’m Brijesh Dhanani a Full Stack Developer from India.</h3>
-<h3 id="portfolio-httpsbrdhananigithubio">Portfolio: <a href="https://brdhanani.github.io">https://brdhanani.github.io</a></h3>
-<a href="https://twitter.com/dhanani_brijesh">
-  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
-</a>
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
-</a>
-<a href="https://www.instagram.com/singer_brijesh_dhanani">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
-<a href="https://youtu.be/X_zgw9GojSc">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">
-</a>
-<br>
-<br>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
-<h3 id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
-<br>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&amp;logo=javascript&amp;link=https://github.com/BRdhanani" alt="JavaScript"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white&amp;link=https://github.com/BRdhanani" alt="HTML5"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&amp;logo=css3&amp;link=https://github.com/BRdhanani" alt="CSS3"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&amp;logo=bootstrap&amp;link=https://github.com/BRdhanani" alt="Bootstrap"></a></p>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-React-black?style=flat&amp;logo=react&amp;link=https://github.com/BRdhanani" alt="React"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Electron-gray?style=flat&amp;logo=electron&amp;link=https://github.com/BRdhanani" alt="Electron"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Heroku-gray?style=flat&amp;logo=heroku&amp;link=https://github.com/BRdhanani" alt="Heroku"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-JQuery-blue?style=flat&amp;logo=jquery&amp;link=https://github.com/BRdhanani" alt="JQuery"></a></p>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat&amp;logo=Node.js&amp;link=https://github.com/BRdhanani" alt="Nodejs"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Docker-black?style=flat&amp;logo=docker&amp;link=https://github.com/BRdhanani" alt="Docker"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-WordPress-blue?style=flat&amp;logo=wordpress&amp;link=https://github.com/BRdhanani" alt="WordPress"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-json-02569B?style=flat&amp;logo=json&amp;link=https://github.com/BRdhanani" alt="JSON"></a></p>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-MySQL-black?style=flat&amp;logo=mysql&amp;link=https://github.com/BRdhanani" alt="MySQL"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Git-black?style=flat&amp;logo=git&amp;link=https://github.com/BRdhanani" alt="Git"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Bitbucket-blue?style=flat&amp;logo=bitbucket&amp;link=https://github.com/BRdhanani" alt="Bitbucket"></a>
-<a href="https://gitlab.com/BRdhanani"><img src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&amp;logo=mongodb&amp;link=https://github.com/BRdhanani" alt="MongoDB"></a></p>
-<p><a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-TypeScript-white?style=flat&amp;logo=typescript&amp;link=https://github.com/BRdhanani" alt="Typescript"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-Angular-red?style=flat&amp;logo=angular&amp;link=https://github.com/BRdhanani" alt="Angular"></a>
-<a href="https://github.com/BRdhanani"><img src="https://img.shields.io/badge/-NextJS-black?style=flat&amp;logo=nextjs&amp;link=https://github.com/BRdhanani" alt="NextJS"></a>
-<a href="https://gitlab.com/BRdhanani"><img src="https://img.shields.io/badge/-MobX-gray?style=flat&amp;logo=mobx&amp;link=https://github.com/BRdhanani" alt="MobX"></a></p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=efefef&amp;bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+  <img src="https://github.com/yourusername/yourusername/blob/main/profile-photo.png" width="180" alt="Profile Photo" style="border-radius: 50%">
 </p>
+
+<h2 align="center">Hi, I'm Vassalos Matthaios 👋</h2>
+
+<h3 align="center">
+🔐 Cybersecurity & FinTech Enthusiast | 🎓 Mathematics & Cybersecurity Engineering Student | 🚀 Passionate about Cryptography, Secure Systems, and Financial Technologies
+</h3>
+
+---
+
+Currently completing a dual academic path in Mathematics (EKPA) and Cyber Security Engineering (AMC).  
+I’m passionate about combining deep technical skills with financial innovation, exploring areas such as cryptography, smart contract auditing, and quantitative finance.  
+Always curious, building, and growing.
+
+---
+
+### 🛠️ **Skills**
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools:**  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-272727?style=flat&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF8800?style=flat)
+
+**Cybersecurity:**  
+Penetration Testing, Vulnerability Assessment, Network Security, Basic Reverse Engineering
+
+**Mathematics:**  
+Cryptography, Linear Algebra, Statistics, Discrete Math
+
+**Finance & FinTech:**  
+FinTech Development (C# .NET), Basic Risk Modeling
+
+**Soft Skills:**  
+Analytical Thinking, Adaptability, Growth Mindset, Team Collaboration
+
+---
+
+<!-- Social Links (Add if you want) -->
+<!--
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+-->
+
+---
+
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=vue-dark" alt="Vassalos Matthaios's GitHub Stats">
 </p>
-<hr>
-<p>Credits: <a href="https://github.com/brdhanani">BRdhanani</a></p>
-<p>Last Edited on: 29/03/2021</p>
